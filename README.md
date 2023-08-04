@@ -24,6 +24,9 @@
 [BladeX](http://mathlab.github.io/BladeX/) (Python Blade Morphing) is a Python package for geometrical parametrization and bottom-up construction of propeller blades. It allows to generate and deform a blade based on the radial distribution of its parameters.
 
 ## Table of contents
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f28332c46354f6a86b6425c587ea7ea)](https://app.codacy.com/gh/s274001/BladeX?utm_source=github.com&utm_medium=referral&utm_content=s274001/BladeX&utm_campaign=Badge_Grade_Settings)
+
 * [Description](#description)
 * [Dependencies and installation](#dependencies-and-installation)
 	* [Installing from source](#installing-from-source)
